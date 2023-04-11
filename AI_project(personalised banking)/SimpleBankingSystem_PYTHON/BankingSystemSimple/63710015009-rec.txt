@@ -1,0 +1,2 @@
+Date                             Credit      Debit     Balance
+[2023-04-09] [12:41:20]       89              89
